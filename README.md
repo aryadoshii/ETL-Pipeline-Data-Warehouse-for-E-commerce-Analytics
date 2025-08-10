@@ -1,4 +1,4 @@
-# 🚀 TechCorp Unified E-commerce Data Pipeline
+# 🚀 ETL Pipeline Data Warehouse for E-commerce Analytics
 
 *An End-to-End Data Engineering Solution for the Take-Home Challenge*
 
