@@ -1,4 +1,4 @@
-# 🚀 ETL Pipeline Data Warehouse for E-commerce Analytics
+# 🚀 ETL Pipeline for E-commerce Analytics
 
 [![Python](https://img.shields.io/badge/Python-3.9+-blue.svg)](https://python.org)
 [![Streamlit](https://img.shields.io/badge/Streamlit-Dashboard-red.svg)](https://streamlit.io)
